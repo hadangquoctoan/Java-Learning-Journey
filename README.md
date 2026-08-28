@@ -7,8 +7,9 @@ This is a repository for storing basic Java Core lessons, examples, and study ma
 - **`docs/`**: Stores Java study materials, slides, and notes.
 - **`src/`**: Contains all sample source code for learning and practicing, divided into topics:
   - `01_Basics/`: Basic syntax, variables, data types, loops.
-  - `02_OOP/`: Object-Oriented Programming (Class, Object, Inheritance, Polymorphism).
-  - `03_Advanced/`: Advanced topics (Collections, Exception Handling, Threads).
+  - `02_Methods/`: Methods, parameters, return values, overloading, recursion.
+  - `03_OOP/`: Object-Oriented Programming (Class, Object, Inheritance, Polymorphism).
+  - `04_Advanced/`: Advanced topics (Collections, Exception Handling, Threads).
 - **`projects/`**: Stores mini-projects.
 - **`scratchpad/`**: A scratch environment for quick code testing (ignored on git).
 
